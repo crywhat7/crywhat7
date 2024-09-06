@@ -29,10 +29,8 @@
 <br/>
 
 ### 📫 ¿Como me puedes encontrar?: ...
-
-   <p align="left">
-      <a href="mailto:miltonbarrientos2@gmail.com">
-         <img alt="Gmail" height="30px" width="300px"  title="Contact through my email " src="https://custom-icon-badges.demolab.com/badge/-kennethcubas93@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
-      <a href="https://www.instagram.com/crywhat/">
-         <img alt="Instagram" width="120px"  title="Instagram " src="https://custom-icon-badges.demolab.com/badge/__kometha-blue.svg?logo=instagram&logoSource=feather"/></a>
-   </p>
+<p align="left">
+   <a href="mailto:miltonbarrientos2@gmail.com">
+      <img alt="Gmail" height="30px" width="300px"  title="Contact through my email " src="https://custom-icon-badges.demolab.com/badge/-kennethcubas93@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+   </a>
+</p>
