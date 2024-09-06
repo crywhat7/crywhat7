@@ -31,6 +31,6 @@
 ### 📫 ¿Como me puedes encontrar?: ...
 <p align="left">
    <a href="mailto:miltonbarrientos2@gmail.com">
-      <img alt="Gmail" height="30px" width="300px"  title="Contact through my email " src="https://custom-icon-badges.demolab.com/badge/-kennethcubas93@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+      <img alt="Gmail" height="30px" width="300px"  title="Contact through my email " src="https://custom-icon-badges.demolab.com/badge/-miltonbarrientos2@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
    </a>
 </p>
