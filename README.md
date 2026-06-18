@@ -2,7 +2,7 @@
 
 **`SOFTWARE DEVELOPER`**
 
-¡Hola!👋 Soy un desarrollador de software hondureño, con 3 años de experiencia en el increíble mundo del desarrollo. Me encanta conocer las últimas tecnologías, innovar y mejorar todo lo que exista para convertirlo en la mejor versión de si mismo.
+¡Hola!👋 Soy un desarrollador de software hondureño, con más de 4 años de experiencia en el increíble mundo del desarrollo. Me encanta conocer las últimas tecnologías, innovar y mejorar todo lo que exista para convertirlo en la mejor versión de si mismo.
 
 ### 🔨 Lenguajes y Herramientas
 
